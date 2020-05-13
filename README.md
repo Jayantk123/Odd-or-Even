@@ -2,7 +2,7 @@
 Check weather the no. is odd or even. 
 
 #include<stdio.h>
-#iinclude<conio.h>
+#include<conio.h>
 
 main()
 {
